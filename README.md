@@ -85,7 +85,7 @@ fun GreetingPreview() {
 
 | Result 1 | Result 2 |
 | --------- | --------- |
-| ![Texto alternativo](img/temi.jpg){width=384px height=864px} | ![Texto alternativo](img/temi.gif){width=384px height=864px} |
+| ![Texto alternativo](img/temi.jpg) | ![Texto alternativo](img/temi.gif) |
 
 
 
